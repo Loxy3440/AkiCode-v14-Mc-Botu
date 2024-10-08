@@ -1,7 +1,7 @@
 module.exports = {
-  token: 'YOUR_BOT_TOKEN',
-    ownerId: 'YOUR_PROFILE_ID',
-    guildId: 'YOUR_GUILD_ID',
+  token: 'MTI4Nzc5MzQ0OTg3MzA1MTcxMA.GTLVJ6.LRT8FeLeMTNiu8DtYcmhdxp5q-9a8BgMHTIsZY',
+    ownerId: '943140235179622500',
+    guildId: '1287794711817490534',
     prefix: '.',
     cooldowns: {
       mine: 20000,
